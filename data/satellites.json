@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Aditya-L1",
+        "norad_id": null,
+        "launch_date": "02 September 2023",
+        "launch_vehicle": "PSLV-C57",
+        "orbit": "Halo orbit around Sun-Earth L1",
+        "mission": "Solar Observation",
+        "status": "Operational"
+    },
+    {
+        "name": "XPoSat",
+        "norad_id": null,
+        "launch_date": "01 January 2024",
+        "launch_vehicle": "PSLV-C58",
+        "orbit": "Low Earth Orbit",
+        "mission": "X-ray Astronomy",
+        "status": "Operational"
+    },
+    {
+        "name": "AstroSat",
+        "norad_id": null,
+        "launch_date": "28 September 2015",
+        "launch_vehicle": "PSLV-C30",
+        "orbit": "Low Earth Orbit",
+        "mission": "Multi-wavelength Astronomy",
+        "status": "Operational"
+    },
+    {
+        "name": "NVS-01",
+        "norad_id": null,
+        "launch_date": "29 May 2023",
+        "launch_vehicle": "GSLV-F12",
+        "orbit": "Geosynchronous Orbit",
+        "mission": "Navigation",
+        "status": "Operational"
+    },
+    {
+        "name": "EOS-06",
+        "norad_id": null,
+        "launch_date": "26 November 2022",
+        "launch_vehicle": "PSLV-C54",
+        "orbit": "Sun-Synchronous Orbit",
+        "mission": "Earth Observation",
+        "status": "Operational"
+    },
+    {
+        "name": "INSAT-3DS",
+        "norad_id": null,
+        "launch_date": "17 February 2024",
+        "launch_vehicle": "GSLV-F14",
+        "orbit": "Geostationary Orbit",
+        "mission": "Meteorology",
+        "status": "Operational"
+    },
+    {
+        "name": "Cartosat-3",
+        "norad_id": null,
+        "launch_date": "27 November 2019",
+        "launch_vehicle": "PSLV-C47",
+        "orbit": "Sun-Synchronous Orbit",
+        "mission": "Earth Observation",
+        "status": "Operational"
+    },
+    {
+        "name": "Chandrayaan-2 Orbiter",
+        "norad_id": null,
+        "launch_date": "22 July 2019",
+        "launch_vehicle": "GSLV Mk III M1",
+        "orbit": "Lunar Orbit",
+        "mission": "Lunar Science",
+        "status": "Operational"
+    },
+    {
+        "name": "NISAR",
+        "norad_id": null,
+        "launch_date": "30 July 2025",
+        "launch_vehicle": "GSLV-F16",
+        "orbit": "Sun-Synchronous Orbit",
+        "mission": "Earth Observation / SAR",
+        "status": "Operational"
+    },
+    {
+        "name": "SPADEX-A",
+        "norad_id": null,
+        "launch_date": "30 December 2024",
+        "launch_vehicle": "PSLV-C60",
+        "orbit": "Low Earth Orbit",
+        "mission": "Space Docking Technology",
+        "status": "Operational"
+    },
+    {
+        "name": "SPADEX-B",
+        "norad_id": null,
+        "launch_date": "30 December 2024",
+        "launch_vehicle": "PSLV-C60",
+        "orbit": "Low Earth Orbit",
+        "mission": "Space Docking Technology",
+        "status": "Operational"
+    }
+]

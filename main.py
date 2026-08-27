@@ -1,8 +1,9 @@
+import json
+
 print("=========================================")
 print("         Astra v1.0")
 print("         Satellite Detection System")
 print("=========================================")
-
 
 def login():
     username = input("Username: ")
@@ -14,7 +15,11 @@ def login():
     else:
         print("Invalid Login credentials")
         return False
-
+       
+def load_satellites():
+    with open("data/satellites.json", "r") as file:
+        satellites = json.load(file)
+    return satellites
 
 def dashboard():
     while True:
@@ -34,7 +39,36 @@ def dashboard():
         choice = input("Enter your choice: ")
 
         if choice == "1":
-            print("Opening Satellite Detection System...")
+            satellites = load_satellites()
+
+            print()
+            print("=============================================")
+            print("                     Satellite Database")
+            print("=============================================")
+            for index, satellite in enumerate(satellites, start = 1):
+                print(f"{index}. {satellite['name']}")
+            print("=============================================")
+            selection = input("Enter the satellite number to view the details: ")
+            if selection.isdigit():
+                selection = int(selection)
+                if 1 <= selection <= len(satellites):
+                    satellite = satellites[selection - 1]
+                    print()
+                    print("=============================================")
+                    print("                     Satellite Details")
+                    print("=============================================")
+                    print("Name     :", satellite["name"])
+                    print("NORAD ID     :", satellite["norad_id"])
+                    print("Launch Date      :", satellite["launch_date"])
+                    print("Orbit        :", satellite["orbit"])
+                    print("Mission      :", satellite["mission"])
+                    print("Status       :", satellite["status"])
+                    print("=============================================")
+                    input ("Press Enter to return to the dashboard")
+                else:
+                    print("Invalid Satellite Number")
+            else:
+                print("Enter a Valid Number.")
 
         elif choice == "2":
             print("Opening Real-time Tracking...")
@@ -58,8 +92,6 @@ def dashboard():
 
         else:
             print("Invalid Choice. Please select 1-7.")
-
-
 while True:
 
     if login():
