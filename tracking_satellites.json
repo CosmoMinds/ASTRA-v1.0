@@ -1,0 +1,992 @@
+[
+    {
+        "name": "AO-07",
+        "norad_id": 7530,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and satellite experimentation",
+        "launch_date": "1974-11-15",
+        "launch_vehicle": "Delta 2310",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "UO-11",
+        "norad_id": 14781,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Educational satellite and amateur radio experimentation",
+        "launch_date": "1984-03-22",
+        "launch_vehicle": "Delta 3920",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "LO-19",
+        "norad_id": 20442,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "1990-01-22",
+        "launch_vehicle": "H-I",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "AO-27",
+        "norad_id": 22825,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "1993-09-26",
+        "launch_vehicle": "Ariane 4",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "FO-29",
+        "norad_id": 24278,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and satellite experimentation",
+        "launch_date": "1996-08-17",
+        "launch_vehicle": "H-II",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "GO-32",
+        "norad_id": 25397,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and digital satellite experimentation",
+        "launch_date": "1998-07-10",
+        "launch_vehicle": "Ariane 4",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "ISS",
+        "norad_id": 25544,
+        "category": "Space Station",
+        "status": "Active",
+        "mission": "International crewed space station and scientific research",
+        "launch_date": "1998-11-20",
+        "launch_vehicle": "Proton-K",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "NO-44",
+        "norad_id": 26931,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2001-09-30",
+        "launch_vehicle": "Delta II",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "SO-50",
+        "norad_id": 27607,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and FM satellite operation",
+        "launch_date": "2002-12-20",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "CO-55",
+        "norad_id": 27844,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Educational and amateur radio satellite",
+        "launch_date": "2003-06-30",
+        "launch_vehicle": "H-IIA",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "RS-22",
+        "norad_id": 27939,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2003-08-17",
+        "launch_vehicle": "Soyuz-U",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "CO-65",
+        "norad_id": 32785,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Amateur radio and educational satellite experimentation",
+        "launch_date": "2008-04-28",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "CO-66",
+        "norad_id": 32791,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Amateur radio and educational satellite experimentation",
+        "launch_date": "2008-04-28",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "RS-30",
+        "norad_id": 32953,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2008-05-23",
+        "launch_vehicle": "Soyuz-U",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "SRMSAT",
+        "norad_id": 37841,
+        "category": "Student Satellite",
+        "status": "Active",
+        "mission": "Earth observation and student technology demonstration",
+        "launch_date": "2011-10-12",
+        "launch_vehicle": "PSLV-C18",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "ZACUBE-1",
+        "norad_id": 39417,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio, educational and satellite technology demonstration",
+        "launch_date": "2013-11-21",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Delfi-N3xt",
+        "norad_id": 39428,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology demonstration and communications",
+        "launch_date": "2013-11-21",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "GOMX-1",
+        "norad_id": 39430,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration and amateur radio",
+        "launch_date": "2013-11-21",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "LO-74",
+        "norad_id": 39440,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Amateur radio and educational satellite experimentation",
+        "launch_date": "2013-11-21",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "AO-73",
+        "norad_id": 39444,
+        "category": "Amateur / Educational",
+        "status": "Active",
+        "mission": "Amateur radio, telemetry and educational satellite experimentation",
+        "launch_date": "2013-11-21",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "DTUSAT-2",
+        "norad_id": 40030,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology demonstration",
+        "launch_date": "2014-06-19",
+        "launch_vehicle": "Dnepr",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "LILACSAT-2",
+        "norad_id": 40908,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and educational satellite communications",
+        "launch_date": "2015-09-19",
+        "launch_vehicle": "CZ-6",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Lapan A3",
+        "norad_id": 41603,
+        "category": "Earth Observation / Amateur",
+        "status": "Active",
+        "mission": "Earth observation, remote sensing and amateur radio experimentation",
+        "launch_date": "2016-06-22",
+        "launch_vehicle": "PSLV",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "CAS-2T",
+        "norad_id": 41847,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and satellite experimentation",
+        "launch_date": "2016-09-15",
+        "launch_vehicle": "Long March 11",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "TechnoSat",
+        "norad_id": 42829,
+        "category": "Student / Technology Demonstration",
+        "status": "Active",
+        "mission": "Technology demonstration and experimental payload operations",
+        "launch_date": "2017-07-14",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "AO-91",
+        "norad_id": 43017,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2017-11-18",
+        "launch_vehicle": "Antares",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "S-Net D",
+        "norad_id": 43186,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Inter-satellite communication technology demonstration",
+        "launch_date": "2018-02-02",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "S-Net B",
+        "norad_id": 43187,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Inter-satellite communication technology demonstration",
+        "launch_date": "2018-02-02",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "S-Net A",
+        "norad_id": 43188,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Inter-satellite communication technology demonstration",
+        "launch_date": "2018-02-02",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "S-Net C",
+        "norad_id": 43189,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Inter-satellite communication technology demonstration",
+        "launch_date": "2018-02-02",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Ten-Koh",
+        "norad_id": 43677,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Technology demonstration and experimental satellite operations",
+        "launch_date": "2018-10-29",
+        "launch_vehicle": "H-IIA",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "PO-101",
+        "norad_id": 43678,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2018-10-29",
+        "launch_vehicle": "H-IIA",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "QO-100",
+        "norad_id": 43700,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Geostationary amateur radio communications",
+        "launch_date": "2018-12-19",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Geostationary Orbit"
+    },
+    {
+        "name": "MinXSS-2",
+        "norad_id": 43758,
+        "category": "Scientific CubeSat",
+        "status": "Active",
+        "mission": "Solar X-ray science and space weather research",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "AO-95",
+        "norad_id": 43770,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SNUSat 2",
+        "norad_id": 43782,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and communications",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SnugLite",
+        "norad_id": 43784,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite and communications technology",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "ITASat 1",
+        "norad_id": 43786,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and Earth observation",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "EAGLET 1",
+        "norad_id": 43790,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Technology demonstration and Earth observation",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "ESEO",
+        "norad_id": 43792,
+        "category": "Educational Satellite",
+        "status": "Active",
+        "mission": "European student education and satellite technology demonstration",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "JO-97",
+        "norad_id": 43803,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Suomi 100",
+        "norad_id": 43804,
+        "category": "Educational CubeSat",
+        "status": "Active",
+        "mission": "Educational satellite and technology demonstration",
+        "launch_date": "2018-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "ISAT",
+        "norad_id": 43879,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Technology demonstration and satellite communications",
+        "launch_date": "2018-12-16",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "UWE-4",
+        "norad_id": 43880,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "University satellite technology and communications research",
+        "launch_date": "2018-12-16",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Sparrow",
+        "norad_id": 43881,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Experimental satellite technology",
+        "launch_date": "2018-12-16",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Prox-1",
+        "norad_id": 44339,
+        "category": "Technology Demonstration",
+        "status": "Active",
+        "mission": "Autonomous proximity operations and spacecraft technology",
+        "launch_date": "2019-06-25",
+        "launch_vehicle": "Falcon Heavy",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "Taurus 1",
+        "norad_id": 44530,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite technology demonstration",
+        "launch_date": "2019-07-25",
+        "launch_vehicle": "Soyuz-2.1a",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TO-108",
+        "norad_id": 44881,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2019-11-05",
+        "launch_vehicle": "PSLV",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "RS-44",
+        "norad_id": 44909,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2019-11-26",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Highly Elliptical Earth Orbit"
+    },
+    {
+        "name": "SALSAT",
+        "norad_id": 46495,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Radio spectrum monitoring and satellite technology research",
+        "launch_date": "2020-09-28",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "CSS (TIANHE-1)",
+        "norad_id": 48274,
+        "category": "Space Station",
+        "status": "Active",
+        "mission": "Core module of the Chinese Space Station",
+        "launch_date": "2021-04-29",
+        "launch_vehicle": "Long March 5B",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "TeikyoSat 4",
+        "norad_id": 49396,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "University student satellite technology demonstration",
+        "launch_date": "2021-11-09",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Z-Sat",
+        "norad_id": 49399,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite technology demonstration",
+        "launch_date": "2021-11-09",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "KOSEN 1",
+        "norad_id": 49402,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and communications",
+        "launch_date": "2021-11-09",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "HO-113",
+        "norad_id": 50466,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2021-12-03",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SNUGLITE 2",
+        "norad_id": 52899,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and amateur radio communications",
+        "launch_date": "2022-09-11",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "UmKA 1 (RS40S)",
+        "norad_id": 57172,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications and educational experimentation",
+        "launch_date": "2023-12-01",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "CubeBel-2 (EU11S)",
+        "norad_id": 57175,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration and communications",
+        "launch_date": "2023-12-01",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "RS-38S",
+        "norad_id": 57189,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2023-12-01",
+        "launch_vehicle": "Soyuz-2.1b",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SONATE-2",
+        "norad_id": 59112,
+        "category": "Student / Technology Demonstration",
+        "status": "Active",
+        "mission": "Artificial intelligence and autonomous satellite technology research",
+        "launch_date": "2024-06-12",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "GRBBeta",
+        "norad_id": 60237,
+        "category": "Scientific CubeSat",
+        "status": "Active",
+        "mission": "Gamma-ray burst and high-energy astrophysics research",
+        "launch_date": "2024-08-16",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "Curium One",
+        "norad_id": 60242,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite technology and communications demonstration",
+        "launch_date": "2024-08-16",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "ROBUSTA-3A",
+        "norad_id": 60243,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student technology demonstration and communications",
+        "launch_date": "2024-08-16",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "CatSat",
+        "norad_id": 60246,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite communications and technology demonstration",
+        "launch_date": "2024-08-16",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "HYPERVIEW-1G (RS66S)",
+        "norad_id": 61772,
+        "category": "Earth Observation",
+        "status": "Active",
+        "mission": "Earth observation and remote sensing",
+        "launch_date": "2025-12-27",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "AO-123",
+        "norad_id": 61781,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2025-12-27",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "LASARsat",
+        "norad_id": 62391,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite technology demonstration",
+        "launch_date": "2024-12-21",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "CroCube",
+        "norad_id": 62394,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Croatian educational CubeSat and amateur radio project",
+        "launch_date": "2024-12-21",
+        "launch_vehicle": "Falcon 9",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "JINJUSat 1B",
+        "norad_id": 63210,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "NUSHSAT 1",
+        "norad_id": 63211,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology and communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-4",
+        "norad_id": 63213,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-5",
+        "norad_id": 63214,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-6",
+        "norad_id": 63215,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-1",
+        "norad_id": 63217,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-3",
+        "norad_id": 63218,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-2",
+        "norad_id": 63219,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-9",
+        "norad_id": 63237,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-7",
+        "norad_id": 63238,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "TEVEL2-8",
+        "norad_id": 63239,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2025-06-23",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SPIRONE",
+        "norad_id": 66657,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite communications and technology demonstration",
+        "launch_date": "2025-10-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "K-HERO",
+        "norad_id": 66660,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Satellite technology and communications",
+        "launch_date": "2025-10-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SNUGLITE-III DURI",
+        "norad_id": 66661,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite and communications technology",
+        "launch_date": "2025-10-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SAKHACUBE-CHOLBON",
+        "norad_id": 67290,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology and communications",
+        "launch_date": "2025-11-28",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "RS95S (QMR-KWT-2)",
+        "norad_id": 67291,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2025-11-28",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "Ten-Koh2",
+        "norad_id": 68261,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Technology demonstration and experimental satellite operations",
+        "launch_date": "2025-12-15",
+        "launch_vehicle": "Unknown",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "JACK-002",
+        "norad_id": 68417,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "DISCO 2",
+        "norad_id": 68431,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "HADES-SA (SpinnyONE)",
+        "norad_id": 68446,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "PARUS-6U1",
+        "norad_id": 68456,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "SAL-E",
+        "norad_id": 68458,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology and communications",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "FSI-SAT 2",
+        "norad_id": 68792,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology demonstration",
+        "launch_date": "2026-05-03",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "OrigamiSat 2",
+        "norad_id": 68795,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "Student satellite technology demonstration",
+        "launch_date": "2026-05-03",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "ARICA 2",
+        "norad_id": 68796,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration",
+        "launch_date": "2026-05-03",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "WASEDA-SAT-ZERO-II",
+        "norad_id": 68797,
+        "category": "Student CubeSat",
+        "status": "Active",
+        "mission": "University student satellite technology demonstration",
+        "launch_date": "2026-05-03",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "MANGARO-II-Piscus",
+        "norad_id": 68798,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology demonstration",
+        "launch_date": "2026-05-03",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "CO-128",
+        "norad_id": 69912,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2026-07-07",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "MARINA",
+        "norad_id": 69920,
+        "category": "Amateur / CubeSat",
+        "status": "Active",
+        "mission": "Amateur radio and satellite communications",
+        "launch_date": "2026-07-07",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    },
+    {
+        "name": "IO-86",
+        "norad_id": 40931,
+        "category": "Amateur",
+        "status": "Active",
+        "mission": "Amateur radio communications",
+        "launch_date": "2015-09-28",
+        "launch_vehicle": "PSLV",
+        "orbit": "Low Earth Orbit"
+    },
+    {
+        "name": "LILIUM-4",
+        "norad_id": 71922,
+        "category": "CubeSat",
+        "status": "Active",
+        "mission": "CubeSat technology and communications",
+        "launch_date": "2026-03-30",
+        "launch_vehicle": "Unknown",
+        "orbit": "Sun-Synchronous Low Earth Orbit"
+    }
+]
